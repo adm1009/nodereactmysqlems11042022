@@ -1,0 +1,57 @@
+.card{
+   
+    margin-left: 475px;
+    background-color: lightgray;
+    border: 1px solid black;
+    border-radius: 15px;
+    height: 100px;
+    width: 300px;
+    margin-top: -20px;
+}
+.reg{
+  text-decoration: underline;
+  margin-left: 1190px;
+  color: cornflowerblue;
+  margin-top: -20px;
+}
+.cardError{
+    margin-left: 475px;
+    background-color: lightgray;
+    border: 1px solid black;
+    border-radius: 15px;
+    height: 130px;
+    width: 300px;
+    margin-top: -20px;
+}
+.loginbutton{
+    background-color:cornflowerblue;
+    border: none;
+    color: white;
+    height: 25px;
+    width: 55px;
+    margin-top: 5px;
+    margin-left: 125px;
+}
+#data {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    margin-top: 10px;
+    font-size:smaller;
+  }
+  #data thead {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    color: black;
+    background-color:#ddd;
+  }
+  #data td {
+    border: 1px solid grey;
+    padding: 2px;
+    padding-top: 12px;
+    
+  }
+
+  
+  
+ 
